@@ -1,5 +1,5 @@
 # Online-Voting-System
-We will be establishing a connection between client and server to facilitate electronic voting process
+
 We will be establishing a connection between the client and server to facilitate the electronic voting process 
 Steps to run the application
 -Open PHPmyadmin
